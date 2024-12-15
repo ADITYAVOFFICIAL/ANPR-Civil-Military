@@ -1,6 +1,4 @@
 # ANPR-Civil-Military
-
-![Status](https://img.shields.io/website-up-down-green-red/https/avlinktree.vercel.app/.svg)
 ![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/ANPR-Civil-Military.svg)
 ![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/ANPR-Civil-Military.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
