@@ -36,10 +36,10 @@ The **ANPR-Civil-Military** system is a specialized solution for Automatic Numbe
 ![Civilian Plate](https://raw.githubusercontent.com/ADITYAVOFFICIAL/ANPR-Civil-Military/refs/heads/main/inference/Yolov8l-Civil.jpg)  
 
 ### Military Plate Recognition:  
-![Military Plate](https://raw.githubusercontent.com/ADITYAVOFFICIAL/ANPR-Civil-Military/refs/heads/main/inference/Yolov8l-Military.jpg) 
+![Military Plate](https://raw.githubusercontent.com/ADITYAVOFFICIAL/ANPR-Civil-Military/refs/heads/main/inference/Yolov8l-Military.png) 
 
 ### Military Plate with Unit Number Recognition:  
-![Military Plate](https://raw.githubusercontent.com/ADITYAVOFFICIAL/ANPR-Civil-Military/refs/heads/main/inference/Yolov8l-Military-Unit.jpg)
+![Military Plate](https://raw.githubusercontent.com/ADITYAVOFFICIAL/ANPR-Civil-Military/refs/heads/main/inference/Yolov11m-Military-Unit.png)
 
 ---
 
