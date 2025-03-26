@@ -33,7 +33,7 @@ The **ANPR-Civil-Military** system is a specialized solution for Automatic Numbe
 
 > [!IMPORTANT]
 > **Download the Dataset:**  
-> The complete dataset is available for download at [militaryanpr.netlify.app](https://militaryanpr.netlify.app/).
+> The complete dataset is available for download at [militaryanpr.vercel.app](https://militaryanpr.vercel.app/).
 
 
 ---
